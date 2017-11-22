@@ -1,4 +1,4 @@
-FROM postgres:10
+FROM postgres:9.6
 
 MAINTAINER Mike Dillon <mike@appropriate.io>
 
